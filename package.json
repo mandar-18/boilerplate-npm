@@ -10,5 +10,16 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Mandar Patil",
+	"description": "This is my project for FreeCodeCamp Backend course",
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"express",
+		"backend",
+		"sql"
+	],
+  "license": "MIT",
+  "version": "0.0.1"
 }
